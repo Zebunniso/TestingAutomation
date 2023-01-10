@@ -1,5 +1,5 @@
 package util;
 
-puplic Cart{
+public class Cart{
   //FROM GITHUB
 }
